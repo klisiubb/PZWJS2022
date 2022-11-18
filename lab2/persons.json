@@ -1,0 +1,19 @@
+{
+    "persons": [
+        {
+            "firstName": "Mateusz",
+            "lastName": "Kliś",
+            "age": 22
+        },
+        {
+            "firstName": "Jan",
+            "lastName": "Nowak",
+            "age": 33
+        },
+        {
+            "firstName": "Robert",
+            "lastName": "Kowalski",
+            "age": 44
+        }
+    ]
+}
